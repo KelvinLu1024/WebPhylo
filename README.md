@@ -1,7 +1,7 @@
 # WebPhylo
 Web-based phylogenetic tree viewer
 
-[examples of usage](https://kelvinlu1024.github.io/WebPhylo/)
+[examples of usage](https://lukc1024.github.io/WebPhylo/)
 
 Relevants:
 * [WebTree (backend)](https://github.com/KelvinLu1024/WebTree)
